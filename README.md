@@ -1,8 +1,8 @@
 TO launch:
 
-`mkvirtualenv venv -p=python3
-workon venv
-pip install -r requirements`
+- mkvirtualenv venv -p=python3
+- workon venv
+- pip install -r requirements
 
 1) Parsing HTML  `python xpath_task.py`
 2) Regex `python regex_task.py`
